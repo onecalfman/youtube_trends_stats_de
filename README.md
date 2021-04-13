@@ -3,7 +3,7 @@
 In this repository I collect data about the German YouTube trends. My main goal is to understand the algorithm behind the trending page.
 At the moment I collect the trending data every 6 hours. Notably the data includes not just the pure trends data,
 but also the basic stats about the last 50 videos uploaded by the trending videos uploader, since I suspect, an above average video performance
-is the deciding factor for entering the trends.
+is the deciding factor for entering the trends. The collected data may expand in the future.
 
 ### Future Additions
 - In the future I would like to include data about videos which could possibly trend, if I find patterns which allow me some means of prediction.
