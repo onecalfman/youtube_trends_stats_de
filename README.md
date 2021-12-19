@@ -11,3 +11,7 @@ is the deciding factor for entering the trends. The collected data may expand in
 
 ### Scope
 Since the youtube-api allows 10.000 api requests at base level just the German YouTube trends are monitored.
+
+### Current State
+I missed a python change wich broke my api-client. Therefore this repo will not get any new updates.
+If i have the leisure to redo the client, the new repo will be linked here.
